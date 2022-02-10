@@ -188,6 +188,6 @@ class TIcrackmodel():
         ax.set_ylabel('Vs [$km/s$]',fontsize = 18)
         ax.tick_params(axis='both', which='major', labelsize=18)
         plt.legend(loc='lower right', fontsize = 14)
-        #plt.savefig('/Users/petermiller//Dropbox/Alaska/Experiments/Anisotropy_model/TI_hudsonmodel/plots/No_chlorite.svg')
-        #plt.show()
-        #plt.savefig('test2.pdf')
+        plt.show()
+      
+    #copyright - Peter Miller 8/11/2021
