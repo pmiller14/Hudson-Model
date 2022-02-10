@@ -4,7 +4,6 @@ import numpy as np
 print("\n\nRun model for multiple porosities and corresponding aspect ratios")
 print("#######################################################################")
 #set global variables for anisotropic solid material
-#These should only be changed when the aggregate generator is written.
 Cagg = np.array([[114.966597967223, 29.5984716245580, 25.3827852191623, 0, 0, 0],
                  [29.5984716245580, 114.966597967223, 25.3827852191623, 0, 0, 0],
                  [25.3827852191623, 25.3827852191623, 99.4844041646496, 0, 0, 0],
